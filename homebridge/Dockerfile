@@ -1,4 +1,4 @@
-FROM homebridge/homebridge:2023-11-28-ubuntu
+FROM homebridge/homebridge:2023-12-30-ubuntu
 
 # Relocate homebridge working directory so it can be persisted
 # hadolint ignore=DL4006
